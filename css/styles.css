@@ -100,3 +100,27 @@
 .cop{
 	margin-bottom: 30px;
 }
+.info{
+	width: 100%;
+}
+.infotext{
+	text-align: start;
+	
+}
+.infotext1{
+	text-align: center;
+}
+.infotext2{
+	text-align: center;
+}
+.emaillab{
+	text-align: center;
+	display: flex;
+}
+.submitbtn{
+	justify-content: end;
+	display: flex;
+}
+.subbtn{
+	width: 200px;
+}
